@@ -1,0 +1,34 @@
+body{
+    background-color: white;
+}
+#Header{
+    background-color: red;
+}
+#Background{
+    background-color: red;
+}
+.speed{
+    height: 200px;
+    width: 200px;
+}
+.volume{
+    height: 200px;
+    width: 200px;
+}
+.div_volume{
+    float: right;
+}
+.div_speed{
+    float: left;
+}
+#clock{
+font-weight: bold;
+}
+.play_button{
+    width: 135px;
+    font-size: 25px;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+}
